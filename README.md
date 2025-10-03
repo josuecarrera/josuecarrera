@@ -1,6 +1,9 @@
  # Welcome to Repo of MicroDev
 
- # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamMxdXl0dWU5bzU0aDRpa3lkaXI4bzltZXRlY2hhYjAxNWx0enNrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12775LeUHMZjNu/giphy.gif">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamMxdXl0dWU5bzU0aDRpa3lkaXI4bzltZXRlY2hhYjAxNWx0enNrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12775LeUHMZjNu/giphy.gif">
+</p>
+
 
 ## Social Media 
 
