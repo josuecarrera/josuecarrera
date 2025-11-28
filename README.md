@@ -50,6 +50,7 @@
 ## Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to Set Up a 3-Node Docker Swarm in VirtualBox](https://ytcards.demolab.com/?id=tLiWz2KOXn4&title=How+to+Set+Up+a+3-Node+Docker+Swarm+in+VirtualBox&lang=en&timestamp=1764280993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Set Up a 3-Node Docker Swarm in VirtualBox")](https://www.youtube.com/watch?v=tLiWz2KOXn4)
 [![Web Server ESP82661](https://ytcards.demolab.com/?id=X9V2uC1xI6U&title=Web+Server+ESP82661&lang=en&timestamp=1724529516&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Web Server ESP82661")](https://www.youtube.com/watch?v=X9V2uC1xI6U)
 [![DDoS attack using kali Linux   Metasploit with slowloris module](https://ytcards.demolab.com/?id=-uvAZ7Nbnm8&title=DDoS+attack+using+kali+Linux+++Metasploit+with+slowloris+module&lang=en&timestamp=1721940830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DDoS attack using kali Linux   Metasploit with slowloris module")](https://www.youtube.com/watch?v=-uvAZ7Nbnm8)
 <!-- END YOUTUBE-CARDS -->
